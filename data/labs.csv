@@ -1,0 +1,501 @@
+encounter_id,test_name,result,normal_flag
+1266,Cholesterol,14.1,1
+1185,Cholesterol,9.8,0
+1199,Creatinine,8.0,0
+1241,Cholesterol,10.0,1
+1233,Creatinine,6.8,1
+1024,HbA1c,11.1,0
+1021,Blood Pressure,1.2,0
+1333,HbA1c,8.7,1
+1166,Blood Pressure,2.8,1
+1053,HbA1c,2.2,0
+1361,WBC Count,5.5,1
+1267,Cholesterol,1.8,0
+1325,HbA1c,1.9,0
+1141,Blood Pressure,5.0,1
+1380,Creatinine,14.7,1
+1135,Creatinine,3.0,0
+1297,HbA1c,0.7,1
+1279,HbA1c,11.6,0
+1292,HbA1c,12.2,1
+1090,Creatinine,5.5,0
+1193,WBC Count,7.2,1
+1335,HbA1c,9.9,0
+1194,Creatinine,1.2,0
+1188,Creatinine,14.3,1
+1301,HbA1c,13.4,1
+1335,Blood Pressure,4.3,1
+1040,Blood Pressure,0.7,1
+1265,Cholesterol,14.0,0
+1129,Creatinine,7.8,0
+1193,Cholesterol,8.3,0
+1115,Cholesterol,10.4,1
+1265,Blood Pressure,9.4,0
+1208,Blood Pressure,14.2,1
+1181,WBC Count,14.2,0
+1177,Creatinine,13.1,1
+1250,WBC Count,9.7,0
+1247,HbA1c,12.1,1
+1310,WBC Count,10.3,0
+1004,HbA1c,8.8,0
+1257,Cholesterol,2.4,0
+1072,Creatinine,12.3,1
+1226,WBC Count,12.4,1
+1085,Creatinine,9.6,0
+1118,Cholesterol,12.4,0
+1040,Cholesterol,9.9,1
+1264,Cholesterol,3.5,1
+1330,Cholesterol,4.5,1
+1144,Blood Pressure,3.6,0
+1109,Blood Pressure,6.0,0
+1077,Cholesterol,1.1,1
+1096,Cholesterol,9.5,0
+1081,WBC Count,5.4,1
+1186,Creatinine,10.0,0
+1309,WBC Count,6.1,1
+1368,Cholesterol,10.4,1
+1061,Blood Pressure,5.4,0
+1339,HbA1c,4.3,1
+1118,Blood Pressure,7.7,1
+1213,Blood Pressure,10.5,0
+1170,Blood Pressure,5.6,0
+1369,HbA1c,14.1,1
+1059,Cholesterol,1.1,0
+1247,Cholesterol,6.6,1
+1346,Cholesterol,14.5,1
+1246,Blood Pressure,8.4,0
+1246,Creatinine,6.6,0
+1108,Creatinine,8.7,0
+1303,WBC Count,8.9,0
+1083,Creatinine,11.1,1
+1332,Blood Pressure,2.4,1
+1211,Cholesterol,4.1,1
+1012,Creatinine,8.9,0
+1125,HbA1c,13.1,0
+1023,HbA1c,8.6,1
+1066,Cholesterol,4.0,1
+1294,Creatinine,10.4,1
+1304,Blood Pressure,11.2,1
+1083,Blood Pressure,4.0,0
+1069,Creatinine,6.0,1
+1323,WBC Count,8.2,1
+1263,WBC Count,7.7,0
+1021,HbA1c,6.1,1
+1294,Cholesterol,4.8,0
+1076,HbA1c,1.9,1
+1029,Cholesterol,1.3,1
+1086,Cholesterol,14.4,0
+1133,Cholesterol,12.8,1
+1093,Cholesterol,5.6,0
+1265,Blood Pressure,14.4,0
+1208,Creatinine,10.3,0
+1307,Cholesterol,7.5,1
+1289,Creatinine,7.6,0
+1327,Cholesterol,1.7,0
+1010,Blood Pressure,1.8,0
+1369,Blood Pressure,9.2,0
+1373,Creatinine,8.5,0
+1339,Creatinine,3.6,0
+1146,HbA1c,14.2,1
+1044,HbA1c,11.8,0
+1111,WBC Count,2.1,1
+1230,HbA1c,14.0,0
+1311,HbA1c,14.6,1
+1242,Cholesterol,14.9,1
+1247,WBC Count,1.3,1
+1088,HbA1c,11.2,0
+1113,HbA1c,8.4,1
+1211,Creatinine,10.7,0
+1308,WBC Count,14.5,0
+1074,WBC Count,10.5,0
+1299,WBC Count,12.6,1
+1393,Creatinine,13.1,1
+1094,Blood Pressure,12.7,0
+1320,WBC Count,6.7,0
+1338,WBC Count,3.7,1
+1262,Creatinine,6.3,0
+1136,Blood Pressure,13.4,1
+1086,WBC Count,2.6,0
+1371,WBC Count,7.9,0
+1352,Cholesterol,3.9,1
+1176,Blood Pressure,8.9,0
+1233,HbA1c,13.0,1
+1306,WBC Count,13.3,0
+1303,Creatinine,3.9,1
+1036,Cholesterol,13.7,0
+1118,HbA1c,9.1,0
+1194,HbA1c,5.6,1
+1198,Cholesterol,10.8,1
+1068,Creatinine,7.5,1
+1056,HbA1c,6.0,0
+1009,HbA1c,10.7,0
+1104,Blood Pressure,4.1,1
+1268,HbA1c,5.3,1
+1259,WBC Count,6.8,0
+1351,WBC Count,4.2,1
+1215,Cholesterol,6.4,0
+1077,Cholesterol,8.8,1
+1311,Creatinine,11.2,1
+1050,Creatinine,11.6,0
+1091,Blood Pressure,12.4,0
+1244,Cholesterol,11.3,0
+1315,Blood Pressure,10.4,1
+1308,Creatinine,3.9,0
+1020,HbA1c,6.3,0
+1273,Blood Pressure,7.4,0
+1258,HbA1c,1.7,1
+1386,Blood Pressure,8.2,1
+1061,Blood Pressure,6.8,1
+1048,Creatinine,12.1,1
+1247,Blood Pressure,14.7,0
+1338,Creatinine,8.6,0
+1067,Blood Pressure,5.2,1
+1309,Blood Pressure,1.1,1
+1277,Cholesterol,13.9,1
+1001,Cholesterol,13.8,1
+1397,Creatinine,4.2,0
+1348,Blood Pressure,10.6,1
+1333,HbA1c,1.6,0
+1221,WBC Count,2.9,1
+1268,Creatinine,3.6,1
+1216,Cholesterol,4.8,0
+1190,Cholesterol,14.9,1
+1023,Creatinine,10.6,0
+1358,Cholesterol,6.1,0
+1272,HbA1c,11.2,1
+1220,Cholesterol,13.8,1
+1118,WBC Count,14.4,0
+1247,WBC Count,1.3,0
+1394,Blood Pressure,6.2,1
+1196,HbA1c,2.0,0
+1180,Cholesterol,5.4,1
+1302,Cholesterol,3.0,0
+1380,Creatinine,9.9,0
+1390,Blood Pressure,6.1,1
+1357,WBC Count,3.8,1
+1295,Creatinine,4.4,1
+1051,Creatinine,5.7,1
+1218,Cholesterol,4.3,0
+1069,WBC Count,7.1,0
+1131,Creatinine,1.0,0
+1245,Cholesterol,4.6,0
+1393,Blood Pressure,6.5,0
+1120,HbA1c,9.2,1
+1043,WBC Count,4.4,0
+1146,Blood Pressure,2.4,1
+1307,Cholesterol,1.6,0
+1279,HbA1c,14.1,0
+1210,Creatinine,6.5,1
+1132,Blood Pressure,8.9,0
+1097,Creatinine,13.8,0
+1003,Creatinine,1.7,0
+1364,HbA1c,13.2,1
+1381,HbA1c,8.5,0
+1004,Creatinine,2.9,0
+1296,Creatinine,6.5,1
+1268,HbA1c,11.8,1
+1061,Cholesterol,7.5,1
+1267,WBC Count,14.8,1
+1004,Creatinine,6.0,1
+1193,HbA1c,11.4,1
+1336,Blood Pressure,6.2,0
+1106,Blood Pressure,12.5,0
+1353,Cholesterol,8.8,0
+1162,Cholesterol,1.4,0
+1210,Blood Pressure,1.0,0
+1186,Cholesterol,2.4,0
+1055,Creatinine,0.7,1
+1080,HbA1c,1.6,0
+1219,WBC Count,10.5,0
+1334,HbA1c,8.2,0
+1300,HbA1c,11.4,0
+1130,Cholesterol,13.7,1
+1134,WBC Count,9.0,0
+1275,Creatinine,11.0,1
+1217,Blood Pressure,11.5,0
+1290,Creatinine,6.0,1
+1188,Cholesterol,4.0,1
+1314,Blood Pressure,3.5,0
+1142,Creatinine,4.1,1
+1349,HbA1c,4.5,1
+1204,Cholesterol,3.5,1
+1387,WBC Count,13.2,0
+1105,HbA1c,11.5,0
+1212,WBC Count,1.2,0
+1283,Blood Pressure,4.4,0
+1286,WBC Count,0.8,0
+1248,HbA1c,7.7,1
+1092,WBC Count,7.4,0
+1190,Cholesterol,12.6,1
+1287,Cholesterol,5.0,1
+1285,HbA1c,12.3,0
+1248,Creatinine,14.5,0
+1130,WBC Count,1.8,0
+1158,HbA1c,12.0,0
+1296,WBC Count,9.1,0
+1177,HbA1c,7.5,1
+1397,WBC Count,6.6,1
+1362,Creatinine,11.9,1
+1204,HbA1c,9.8,1
+1377,Cholesterol,12.2,0
+1071,Creatinine,13.6,1
+1338,Cholesterol,9.5,1
+1061,Creatinine,14.7,0
+1383,Cholesterol,9.3,1
+1118,Creatinine,9.7,1
+1229,WBC Count,8.5,1
+1359,Cholesterol,1.8,0
+1083,WBC Count,11.0,0
+1052,HbA1c,8.4,1
+1110,WBC Count,7.0,1
+1261,Cholesterol,13.7,0
+1206,Creatinine,4.8,0
+1174,WBC Count,8.1,1
+1282,Blood Pressure,10.6,0
+1315,Creatinine,12.0,1
+1357,HbA1c,7.2,0
+1351,HbA1c,12.7,0
+1362,Cholesterol,11.6,1
+1027,Creatinine,1.5,1
+1083,WBC Count,1.2,1
+1200,WBC Count,9.5,1
+1326,HbA1c,5.5,1
+1003,Creatinine,3.5,1
+1047,Creatinine,8.9,0
+1075,HbA1c,5.5,1
+1242,WBC Count,8.3,1
+1308,HbA1c,7.2,0
+1223,Creatinine,9.0,0
+1046,WBC Count,6.3,1
+1033,Blood Pressure,10.6,1
+1135,HbA1c,3.1,0
+1114,Creatinine,10.6,0
+1190,Creatinine,6.5,0
+1041,Cholesterol,13.2,0
+1312,Cholesterol,8.0,1
+1020,HbA1c,14.6,1
+1371,WBC Count,9.2,1
+1197,Blood Pressure,3.7,1
+1206,Blood Pressure,12.4,0
+1315,WBC Count,5.5,0
+1336,Cholesterol,5.5,1
+1267,Creatinine,1.0,0
+1147,Cholesterol,8.5,1
+1365,HbA1c,8.2,0
+1306,Cholesterol,5.7,1
+1030,WBC Count,13.5,1
+1397,HbA1c,2.4,0
+1090,WBC Count,5.3,0
+1328,HbA1c,5.2,0
+1254,Creatinine,1.8,0
+1225,Cholesterol,7.5,1
+1006,WBC Count,10.5,1
+1104,HbA1c,7.9,0
+1337,Cholesterol,2.8,1
+1266,Blood Pressure,6.0,0
+1147,WBC Count,0.5,1
+1100,Creatinine,13.1,1
+1018,HbA1c,1.7,0
+1307,WBC Count,9.2,0
+1262,WBC Count,14.8,1
+1265,Blood Pressure,8.3,0
+1358,Creatinine,13.9,0
+1119,Blood Pressure,3.9,0
+1315,HbA1c,11.5,0
+1087,Cholesterol,8.2,0
+1346,WBC Count,10.9,1
+1019,HbA1c,1.4,1
+1185,HbA1c,2.6,1
+1123,Creatinine,2.4,1
+1336,WBC Count,10.5,1
+1001,Blood Pressure,12.7,0
+1081,Cholesterol,11.4,0
+1045,WBC Count,0.9,0
+1142,WBC Count,13.1,0
+1400,Cholesterol,5.6,0
+1205,HbA1c,6.3,1
+1181,Blood Pressure,2.0,0
+1343,WBC Count,11.2,1
+1203,HbA1c,3.1,1
+1208,Creatinine,8.7,1
+1301,HbA1c,12.7,0
+1103,Cholesterol,1.8,1
+1266,Blood Pressure,8.3,0
+1008,Cholesterol,3.9,0
+1378,Creatinine,5.5,1
+1361,HbA1c,7.4,1
+1036,WBC Count,5.6,1
+1047,Creatinine,9.9,1
+1282,Cholesterol,7.5,0
+1146,HbA1c,9.0,0
+1372,Cholesterol,11.2,0
+1287,WBC Count,8.6,1
+1299,Creatinine,9.0,0
+1179,Creatinine,8.7,0
+1178,Blood Pressure,6.0,0
+1142,Cholesterol,5.4,0
+1116,Blood Pressure,13.5,0
+1311,Creatinine,9.3,1
+1100,HbA1c,4.0,0
+1233,Blood Pressure,7.7,0
+1207,HbA1c,5.3,0
+1295,Blood Pressure,14.0,1
+1003,Cholesterol,0.6,1
+1134,Cholesterol,3.8,0
+1090,Creatinine,5.8,0
+1209,Cholesterol,7.6,0
+1260,Blood Pressure,12.8,1
+1055,Blood Pressure,1.8,0
+1287,HbA1c,12.2,0
+1038,WBC Count,1.3,1
+1258,Blood Pressure,12.7,0
+1151,HbA1c,1.2,1
+1175,Creatinine,0.8,1
+1060,Cholesterol,10.6,0
+1263,Cholesterol,15.0,0
+1132,Blood Pressure,13.5,1
+1276,Cholesterol,8.9,1
+1295,Creatinine,13.8,1
+1129,WBC Count,0.6,1
+1356,Blood Pressure,14.6,0
+1227,Creatinine,7.6,1
+1194,HbA1c,11.0,0
+1289,WBC Count,12.4,1
+1248,Blood Pressure,10.9,1
+1395,Cholesterol,8.3,0
+1125,Blood Pressure,7.4,0
+1388,HbA1c,12.7,1
+1174,Cholesterol,3.5,1
+1398,WBC Count,14.5,1
+1235,Blood Pressure,10.8,0
+1349,Creatinine,3.4,0
+1236,HbA1c,11.2,0
+1301,Blood Pressure,8.2,0
+1015,Creatinine,10.8,0
+1247,Blood Pressure,11.6,1
+1060,HbA1c,1.8,1
+1133,Blood Pressure,7.8,1
+1035,Cholesterol,14.0,1
+1196,Cholesterol,5.1,1
+1325,Creatinine,9.1,1
+1113,Cholesterol,5.9,0
+1347,WBC Count,7.1,1
+1360,WBC Count,8.5,1
+1118,Blood Pressure,8.5,1
+1162,WBC Count,3.4,0
+1212,WBC Count,10.4,0
+1181,HbA1c,1.8,1
+1265,HbA1c,2.5,0
+1275,WBC Count,0.5,0
+1005,HbA1c,2.2,0
+1359,WBC Count,7.4,0
+1135,Creatinine,9.3,1
+1128,HbA1c,12.0,0
+1148,WBC Count,2.0,0
+1048,WBC Count,12.8,1
+1205,Blood Pressure,11.3,1
+1345,Creatinine,6.4,0
+1384,Creatinine,14.0,1
+1176,Blood Pressure,14.9,1
+1039,Blood Pressure,3.5,0
+1284,Blood Pressure,6.0,0
+1092,Cholesterol,13.9,0
+1244,WBC Count,11.0,1
+1161,Cholesterol,1.2,1
+1182,HbA1c,11.8,0
+1112,Blood Pressure,12.5,1
+1294,WBC Count,11.4,1
+1138,WBC Count,12.1,1
+1094,HbA1c,12.5,0
+1383,Creatinine,3.2,0
+1350,WBC Count,3.9,1
+1098,Creatinine,9.7,1
+1256,WBC Count,13.7,1
+1378,Cholesterol,5.1,0
+1103,Blood Pressure,9.0,0
+1121,Creatinine,10.4,0
+1377,Cholesterol,7.1,1
+1124,WBC Count,10.8,1
+1136,Blood Pressure,13.5,1
+1106,Cholesterol,9.5,1
+1118,Blood Pressure,8.3,0
+1104,WBC Count,6.9,0
+1128,WBC Count,8.9,1
+1317,Cholesterol,5.7,0
+1183,WBC Count,6.2,1
+1080,HbA1c,8.2,1
+1399,Blood Pressure,1.5,1
+1055,WBC Count,3.8,1
+1062,WBC Count,8.4,0
+1041,HbA1c,6.8,1
+1347,Blood Pressure,5.3,1
+1340,Creatinine,11.1,0
+1253,HbA1c,10.6,0
+1315,HbA1c,2.9,1
+1004,Blood Pressure,13.2,1
+1392,HbA1c,7.7,0
+1278,Blood Pressure,11.3,0
+1022,HbA1c,8.8,1
+1247,Blood Pressure,15.0,0
+1191,Blood Pressure,11.4,1
+1318,Creatinine,10.8,1
+1162,WBC Count,11.8,0
+1253,Blood Pressure,2.6,1
+1295,Cholesterol,3.5,0
+1141,Creatinine,10.9,0
+1252,Creatinine,7.7,1
+1094,WBC Count,11.4,1
+1392,HbA1c,2.0,0
+1262,HbA1c,8.3,1
+1144,Blood Pressure,6.0,1
+1204,Creatinine,7.1,0
+1114,Blood Pressure,9.3,1
+1385,Cholesterol,7.8,0
+1296,HbA1c,8.3,1
+1066,Blood Pressure,7.6,1
+1028,Blood Pressure,6.4,1
+1270,Creatinine,11.7,0
+1217,Cholesterol,0.7,1
+1245,Cholesterol,9.2,0
+1277,Blood Pressure,8.7,0
+1017,Cholesterol,10.9,1
+1258,Cholesterol,9.2,0
+1178,Creatinine,12.5,0
+1202,Creatinine,14.4,0
+1352,Cholesterol,5.5,1
+1398,Blood Pressure,3.8,0
+1090,HbA1c,6.6,1
+1235,Blood Pressure,4.7,0
+1062,Blood Pressure,9.4,0
+1358,HbA1c,13.7,1
+1266,Creatinine,2.5,1
+1236,Blood Pressure,2.0,1
+1162,Cholesterol,4.2,1
+1353,Cholesterol,11.0,0
+1005,Creatinine,9.1,0
+1007,Creatinine,2.0,0
+1346,Creatinine,13.8,0
+1108,WBC Count,12.0,0
+1195,WBC Count,0.8,1
+1298,Cholesterol,9.9,1
+1052,Blood Pressure,11.7,0
+1167,WBC Count,5.9,0
+1186,Blood Pressure,1.5,1
+1314,HbA1c,1.6,0
+1133,Cholesterol,2.0,0
+1096,WBC Count,12.7,1
+1281,Cholesterol,13.7,1
+1135,HbA1c,2.3,0
+1122,HbA1c,3.9,0
+1138,Cholesterol,2.9,1
+1242,WBC Count,3.2,0
+1314,Cholesterol,12.6,1
+1176,Blood Pressure,5.3,0
+1188,Blood Pressure,5.0,1
+1095,Blood Pressure,3.8,0
+1256,Blood Pressure,9.3,0
+1218,Blood Pressure,6.0,1
+1108,HbA1c,11.3,1
+1215,WBC Count,3.5,1
+1359,WBC Count,11.9,1
+1386,Creatinine,9.3,0

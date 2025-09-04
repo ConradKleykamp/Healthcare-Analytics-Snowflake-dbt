@@ -1,0 +1,401 @@
+encounter_id,icd10_code,description
+1120,I50.9,Checkup
+1274,Z00.0,Injury
+1123,Z00.0,Pneumonia
+1159,J18.9,Diabetes Complication
+1241,Z00.0,Checkup
+1100,E11.9,Injury
+1189,Z00.0,Pneumonia
+1348,Z00.0,Checkup
+1293,E11.9,Injury
+1226,E11.9,Pneumonia
+1237,Z00.0,Injury
+1394,Z00.0,Diabetes Complication
+1145,I50.9,Checkup
+1399,Z00.0,Injury
+1196,J18.9,Injury
+1258,J18.9,Checkup
+1271,J18.9,Pneumonia
+1215,J18.9,Checkup
+1083,Z00.0,Injury
+1103,I50.9,Heart Failure
+1310,E11.9,Pneumonia
+1071,Z00.0,Injury
+1129,S09.9,Heart Failure
+1027,Z00.0,Pneumonia
+1329,J18.9,Diabetes Complication
+1247,S09.9,Checkup
+1191,Z00.0,Pneumonia
+1284,I50.9,Pneumonia
+1053,I50.9,Injury
+1365,S09.9,Heart Failure
+1265,E11.9,Pneumonia
+1064,S09.9,Checkup
+1146,I50.9,Pneumonia
+1043,S09.9,Pneumonia
+1391,J18.9,Injury
+1083,J18.9,Pneumonia
+1140,E11.9,Heart Failure
+1231,S09.9,Injury
+1263,S09.9,Diabetes Complication
+1076,S09.9,Diabetes Complication
+1224,S09.9,Injury
+1047,E11.9,Heart Failure
+1114,I50.9,Injury
+1231,Z00.0,Injury
+1179,E11.9,Injury
+1014,I50.9,Injury
+1213,I50.9,Pneumonia
+1028,I50.9,Checkup
+1203,S09.9,Diabetes Complication
+1258,E11.9,Heart Failure
+1192,I50.9,Pneumonia
+1121,Z00.0,Diabetes Complication
+1198,Z00.0,Checkup
+1042,J18.9,Injury
+1192,I50.9,Checkup
+1115,E11.9,Diabetes Complication
+1015,S09.9,Diabetes Complication
+1164,J18.9,Pneumonia
+1051,I50.9,Pneumonia
+1366,S09.9,Heart Failure
+1333,E11.9,Injury
+1172,E11.9,Checkup
+1075,J18.9,Injury
+1071,J18.9,Checkup
+1020,I50.9,Injury
+1147,S09.9,Diabetes Complication
+1242,Z00.0,Diabetes Complication
+1357,S09.9,Injury
+1072,E11.9,Heart Failure
+1389,E11.9,Diabetes Complication
+1362,I50.9,Heart Failure
+1241,Z00.0,Diabetes Complication
+1230,I50.9,Pneumonia
+1316,E11.9,Pneumonia
+1003,E11.9,Injury
+1041,S09.9,Checkup
+1010,Z00.0,Pneumonia
+1132,S09.9,Diabetes Complication
+1111,S09.9,Diabetes Complication
+1077,I50.9,Pneumonia
+1281,S09.9,Pneumonia
+1373,J18.9,Checkup
+1312,J18.9,Pneumonia
+1271,S09.9,Injury
+1217,Z00.0,Checkup
+1057,S09.9,Pneumonia
+1398,E11.9,Diabetes Complication
+1148,E11.9,Pneumonia
+1122,Z00.0,Injury
+1155,I50.9,Injury
+1063,J18.9,Diabetes Complication
+1025,J18.9,Checkup
+1123,I50.9,Diabetes Complication
+1215,S09.9,Pneumonia
+1328,Z00.0,Diabetes Complication
+1319,S09.9,Checkup
+1235,I50.9,Heart Failure
+1033,Z00.0,Diabetes Complication
+1057,J18.9,Checkup
+1256,J18.9,Heart Failure
+1306,S09.9,Checkup
+1275,E11.9,Checkup
+1009,I50.9,Heart Failure
+1324,I50.9,Diabetes Complication
+1264,S09.9,Heart Failure
+1295,I50.9,Diabetes Complication
+1124,J18.9,Checkup
+1368,S09.9,Diabetes Complication
+1074,J18.9,Injury
+1150,Z00.0,Heart Failure
+1220,Z00.0,Heart Failure
+1001,E11.9,Pneumonia
+1315,I50.9,Checkup
+1181,Z00.0,Checkup
+1124,I50.9,Diabetes Complication
+1293,J18.9,Injury
+1214,S09.9,Checkup
+1096,Z00.0,Injury
+1341,S09.9,Pneumonia
+1343,Z00.0,Heart Failure
+1044,I50.9,Injury
+1269,Z00.0,Checkup
+1185,Z00.0,Heart Failure
+1035,J18.9,Injury
+1270,E11.9,Injury
+1279,J18.9,Diabetes Complication
+1260,S09.9,Heart Failure
+1260,I50.9,Injury
+1284,I50.9,Diabetes Complication
+1011,Z00.0,Checkup
+1200,I50.9,Injury
+1241,E11.9,Diabetes Complication
+1023,E11.9,Diabetes Complication
+1326,Z00.0,Heart Failure
+1199,Z00.0,Diabetes Complication
+1192,S09.9,Injury
+1130,Z00.0,Pneumonia
+1383,J18.9,Checkup
+1009,J18.9,Injury
+1183,J18.9,Injury
+1035,E11.9,Checkup
+1177,I50.9,Checkup
+1124,S09.9,Diabetes Complication
+1376,Z00.0,Injury
+1337,S09.9,Diabetes Complication
+1322,E11.9,Heart Failure
+1054,Z00.0,Diabetes Complication
+1396,Z00.0,Heart Failure
+1298,E11.9,Pneumonia
+1377,I50.9,Injury
+1388,Z00.0,Heart Failure
+1171,I50.9,Pneumonia
+1069,E11.9,Checkup
+1023,S09.9,Diabetes Complication
+1181,Z00.0,Pneumonia
+1280,I50.9,Heart Failure
+1174,Z00.0,Injury
+1330,I50.9,Checkup
+1090,Z00.0,Checkup
+1399,Z00.0,Pneumonia
+1351,Z00.0,Pneumonia
+1238,S09.9,Diabetes Complication
+1357,Z00.0,Checkup
+1246,I50.9,Checkup
+1324,S09.9,Diabetes Complication
+1094,J18.9,Injury
+1070,I50.9,Diabetes Complication
+1033,I50.9,Heart Failure
+1367,J18.9,Heart Failure
+1398,S09.9,Pneumonia
+1235,Z00.0,Diabetes Complication
+1019,I50.9,Diabetes Complication
+1151,J18.9,Pneumonia
+1104,Z00.0,Injury
+1023,S09.9,Diabetes Complication
+1103,I50.9,Checkup
+1022,Z00.0,Diabetes Complication
+1162,Z00.0,Injury
+1159,E11.9,Diabetes Complication
+1264,J18.9,Checkup
+1204,Z00.0,Heart Failure
+1279,S09.9,Heart Failure
+1243,E11.9,Injury
+1130,Z00.0,Injury
+1019,Z00.0,Checkup
+1386,S09.9,Heart Failure
+1332,E11.9,Heart Failure
+1098,E11.9,Heart Failure
+1147,J18.9,Heart Failure
+1183,Z00.0,Checkup
+1400,J18.9,Injury
+1025,E11.9,Injury
+1336,J18.9,Pneumonia
+1170,S09.9,Injury
+1140,I50.9,Heart Failure
+1064,S09.9,Diabetes Complication
+1189,E11.9,Heart Failure
+1224,S09.9,Heart Failure
+1205,E11.9,Injury
+1381,S09.9,Pneumonia
+1226,Z00.0,Checkup
+1198,Z00.0,Diabetes Complication
+1174,S09.9,Diabetes Complication
+1096,J18.9,Pneumonia
+1255,E11.9,Heart Failure
+1355,Z00.0,Checkup
+1255,E11.9,Checkup
+1189,Z00.0,Checkup
+1266,I50.9,Injury
+1137,S09.9,Heart Failure
+1043,Z00.0,Diabetes Complication
+1373,S09.9,Diabetes Complication
+1218,I50.9,Heart Failure
+1041,E11.9,Diabetes Complication
+1221,S09.9,Injury
+1309,Z00.0,Checkup
+1093,I50.9,Diabetes Complication
+1280,Z00.0,Injury
+1151,I50.9,Checkup
+1165,I50.9,Heart Failure
+1053,Z00.0,Heart Failure
+1041,S09.9,Injury
+1168,E11.9,Injury
+1339,E11.9,Injury
+1152,I50.9,Diabetes Complication
+1157,Z00.0,Heart Failure
+1229,I50.9,Diabetes Complication
+1309,E11.9,Diabetes Complication
+1368,I50.9,Checkup
+1219,I50.9,Injury
+1086,E11.9,Diabetes Complication
+1354,S09.9,Checkup
+1228,I50.9,Pneumonia
+1180,S09.9,Checkup
+1229,I50.9,Pneumonia
+1022,Z00.0,Pneumonia
+1373,I50.9,Pneumonia
+1181,I50.9,Pneumonia
+1315,J18.9,Injury
+1223,Z00.0,Diabetes Complication
+1141,Z00.0,Diabetes Complication
+1328,S09.9,Pneumonia
+1030,S09.9,Diabetes Complication
+1039,I50.9,Pneumonia
+1344,E11.9,Diabetes Complication
+1327,I50.9,Checkup
+1208,J18.9,Injury
+1187,I50.9,Heart Failure
+1263,J18.9,Pneumonia
+1384,I50.9,Checkup
+1348,S09.9,Checkup
+1082,I50.9,Injury
+1016,S09.9,Injury
+1074,E11.9,Pneumonia
+1312,E11.9,Pneumonia
+1348,Z00.0,Checkup
+1225,I50.9,Checkup
+1018,Z00.0,Injury
+1065,I50.9,Pneumonia
+1035,E11.9,Pneumonia
+1121,J18.9,Checkup
+1399,Z00.0,Heart Failure
+1331,Z00.0,Checkup
+1188,E11.9,Heart Failure
+1186,E11.9,Pneumonia
+1197,J18.9,Checkup
+1291,Z00.0,Injury
+1017,E11.9,Diabetes Complication
+1310,E11.9,Pneumonia
+1079,J18.9,Pneumonia
+1348,J18.9,Checkup
+1231,S09.9,Diabetes Complication
+1190,I50.9,Diabetes Complication
+1191,S09.9,Diabetes Complication
+1228,J18.9,Checkup
+1391,E11.9,Checkup
+1040,J18.9,Heart Failure
+1294,Z00.0,Heart Failure
+1071,E11.9,Heart Failure
+1272,S09.9,Injury
+1188,S09.9,Pneumonia
+1204,S09.9,Heart Failure
+1161,E11.9,Injury
+1333,I50.9,Injury
+1143,I50.9,Checkup
+1128,I50.9,Diabetes Complication
+1059,J18.9,Diabetes Complication
+1014,J18.9,Heart Failure
+1377,Z00.0,Pneumonia
+1096,E11.9,Pneumonia
+1256,Z00.0,Pneumonia
+1266,J18.9,Injury
+1199,E11.9,Injury
+1288,S09.9,Injury
+1061,E11.9,Checkup
+1135,J18.9,Injury
+1397,S09.9,Pneumonia
+1134,S09.9,Pneumonia
+1361,E11.9,Diabetes Complication
+1229,I50.9,Pneumonia
+1110,J18.9,Injury
+1314,J18.9,Injury
+1147,I50.9,Heart Failure
+1356,Z00.0,Checkup
+1252,Z00.0,Pneumonia
+1103,J18.9,Checkup
+1063,I50.9,Pneumonia
+1070,I50.9,Diabetes Complication
+1038,S09.9,Diabetes Complication
+1232,Z00.0,Checkup
+1089,Z00.0,Injury
+1366,S09.9,Heart Failure
+1228,E11.9,Pneumonia
+1045,Z00.0,Pneumonia
+1350,S09.9,Heart Failure
+1164,I50.9,Checkup
+1342,E11.9,Checkup
+1178,J18.9,Pneumonia
+1364,I50.9,Diabetes Complication
+1034,E11.9,Heart Failure
+1282,S09.9,Pneumonia
+1278,I50.9,Diabetes Complication
+1149,E11.9,Checkup
+1154,J18.9,Diabetes Complication
+1081,I50.9,Injury
+1365,I50.9,Pneumonia
+1364,Z00.0,Heart Failure
+1359,E11.9,Diabetes Complication
+1327,E11.9,Checkup
+1090,Z00.0,Diabetes Complication
+1186,S09.9,Checkup
+1261,S09.9,Injury
+1115,Z00.0,Checkup
+1063,I50.9,Heart Failure
+1103,J18.9,Injury
+1072,S09.9,Diabetes Complication
+1122,J18.9,Pneumonia
+1253,E11.9,Checkup
+1014,E11.9,Heart Failure
+1185,S09.9,Pneumonia
+1284,I50.9,Pneumonia
+1294,E11.9,Injury
+1189,J18.9,Diabetes Complication
+1240,I50.9,Pneumonia
+1283,S09.9,Heart Failure
+1067,E11.9,Checkup
+1314,S09.9,Checkup
+1045,I50.9,Checkup
+1034,I50.9,Injury
+1159,I50.9,Heart Failure
+1204,Z00.0,Pneumonia
+1368,Z00.0,Heart Failure
+1369,J18.9,Injury
+1246,I50.9,Injury
+1270,I50.9,Diabetes Complication
+1211,E11.9,Heart Failure
+1394,J18.9,Checkup
+1210,J18.9,Injury
+1295,S09.9,Injury
+1038,I50.9,Diabetes Complication
+1065,E11.9,Checkup
+1163,S09.9,Injury
+1329,Z00.0,Pneumonia
+1038,I50.9,Checkup
+1231,J18.9,Heart Failure
+1239,I50.9,Diabetes Complication
+1349,I50.9,Pneumonia
+1265,Z00.0,Pneumonia
+1177,E11.9,Heart Failure
+1066,E11.9,Diabetes Complication
+1400,E11.9,Injury
+1283,S09.9,Diabetes Complication
+1328,E11.9,Injury
+1301,S09.9,Heart Failure
+1094,Z00.0,Heart Failure
+1394,I50.9,Pneumonia
+1067,S09.9,Pneumonia
+1222,Z00.0,Pneumonia
+1258,S09.9,Heart Failure
+1029,Z00.0,Injury
+1064,E11.9,Heart Failure
+1266,E11.9,Heart Failure
+1079,Z00.0,Pneumonia
+1156,J18.9,Diabetes Complication
+1085,Z00.0,Pneumonia
+1083,S09.9,Diabetes Complication
+1166,Z00.0,Injury
+1364,I50.9,Injury
+1116,J18.9,Checkup
+1178,Z00.0,Checkup
+1266,J18.9,Checkup
+1146,J18.9,Injury
+1041,Z00.0,Pneumonia
+1129,Z00.0,Pneumonia
+1101,E11.9,Pneumonia
+1326,Z00.0,Heart Failure
+1283,Z00.0,Checkup
+1141,E11.9,Pneumonia
+1065,E11.9,Checkup
+1321,I50.9,Checkup
