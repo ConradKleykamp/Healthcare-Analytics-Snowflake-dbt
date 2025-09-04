@@ -1,0 +1,35 @@
+# ---- OS / Editor junk ----
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.envrc
+.envrc.local
+
+# ---- dbt ----
+target/
+dbt_packages/
+logs/
+
+# Ignore user-specific dbt configs (contains Snowflake creds!)
+~/.dbt/profiles.yml
+
+# ---- Snowflake ----
+# Ignore staged CSVs that might contain PHI-like data
+*.csv.gz
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Secrets ----
+*.key
+*.pem
+*.env
+
