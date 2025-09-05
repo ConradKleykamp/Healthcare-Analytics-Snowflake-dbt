@@ -12,6 +12,7 @@ Table of Contents:
   - [2. Organize the Project Folder](#2-organize-the-project-folder)
   - [3. Initialize dbt Project](#3-initialize-dbt-project)
   - [4. Connect dbt to Snowflake](#4-connect-dbt-to-snowflake)
+- [Loading the CSVs into Snowflake](#loading-the-csvs-into-snowflake) 
 
 ---
 
@@ -93,8 +94,15 @@ cd Healthcare-Analytics-Snowflake-dbt
 ``` bash
 # Create folders for CSVs, scripts, dbt, and analysis
 mkdir data snowflake dbt analysis
+```
+New Folders Created:
+- data: CSV files
+- snowflake: Snowflake DDL + COPY scripts
+- dbt: dbt project folder
+- analysis: SQL queries
 
 # Move CSVs into data folder
+``` bash
 mv ~/Downloads/*.csv data/
 ```
 ### 3. Initialize dbt Project
@@ -119,3 +127,7 @@ dbt debug
 ```
 
 If everything is set up properly, you'll see 'All checks passed!'
+
+---
+
+## Loading the CSVs into Snowflake
